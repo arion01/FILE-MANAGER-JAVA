@@ -5,7 +5,7 @@ import Utils.Files;
 
 public class Main {
 	
-	static IFILE file = new Files("storage/emulated/0/AppProjects/JavaApp/");
+	static IFILE file = new Files("PATH");
 	
 	static Scanner scn = new Scanner(System.in);
 	
