@@ -32,7 +32,7 @@ public class Files implements IFILE {
 	@Override
 	public void readFile(String filename){
 		
-		File file = new File(path + filename);	
+		File file = new File(path + filename);
 		BufferedReader reader;
 		
 		try {
